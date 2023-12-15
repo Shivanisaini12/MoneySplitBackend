@@ -1,0 +1,14 @@
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\bin\Release\net6.0\DomainLayer.deps.json
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\bin\Release\net6.0\DomainLayer.runtimeconfig.json
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\bin\Release\net6.0\DomainLayer.dll
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\bin\Release\net6.0\DomainLayer.pdb
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\obj\Release\net6.0\DomainLayer.csproj.AssemblyReference.cache
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\obj\Release\net6.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\obj\Release\net6.0\DomainLayer.AssemblyInfoInputs.cache
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\obj\Release\net6.0\DomainLayer.AssemblyInfo.cs
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\obj\Release\net6.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\obj\Release\net6.0\DomainLayer.dll
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\obj\Release\net6.0\refint\DomainLayer.dll
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\obj\Release\net6.0\DomainLayer.pdb
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\obj\Release\net6.0\DomainLayer.genruntimeconfig.cache
+D:\RX-Splitter\Rx-SplitterApi\RxSplitterAPIs\DomainLayer\obj\Release\net6.0\ref\DomainLayer.dll
